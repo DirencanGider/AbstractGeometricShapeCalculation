@@ -1,0 +1,2 @@
+# AbstractGeometricShapeCalculation
+AbstractGeometricShapeCalculation
